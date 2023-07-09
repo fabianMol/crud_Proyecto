@@ -8,7 +8,6 @@ namespace crud_Proyecto.Models
 {
     public class conexion
     {
-
-
+       
     }
 }
